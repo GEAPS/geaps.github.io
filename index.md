@@ -1,72 +1,61 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Privacy Policy for Todo Stream
+tagline: Privacy Policy
+description: Privacy policy for the plugin app for study stream.
 ---
+## Privacy Policy for the Todo List Chrome Extension
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+**Last updated: (insert date)**
 
-For me, the painful aspects of making a website are
+Thank you for choosing Todo Stream. We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [maximizeabit@gmail.com](mailto:maximizeabit@gmail.com).
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+This privacy policy applies to all information collected through our Chrome Extension, Todo Stream, and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "Services").
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+### 1. WHAT INFORMATION DO WE COLLECT?
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
+Our Services are designed to avoid the collection and storage of your personal data. We do not collect any personal data from you when you use our Services.
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
+### 2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
+We do not share, sell, rent or trade your information with third parties for their promotional purposes.
 
-Start by reading the [Overview page](pages/overview.html), which
-explains the basic structure of these sites. Then read
-[how to make an independent website](pages/independent_site.html). Then
-read any of the other things, such as
-[how to test your site locally](pages/local_test.html).
+### 3. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 
-- [Overview](pages/overview.html)
-- [Making an independent website](pages/independent_site.html)
-- [Making a personal site](pages/user_site.html)
-- [Making a site for a project](pages/project_site.html)
-- [Making a jekyll-free site](pages/nojekyll.html)
-- [Testing your site locally](pages/local_test.html)
-- [Resources](pages/resources.html)
+Our Services do not transfer your information to any servers or entities outside of your personal device.
 
-If anything here is confusing (or _wrong_!), or if I've missed
-important details, please
-[submit an issue](https://github.com/kbroman/simple_site/issues), or (even
-better) fork [the GitHub repository for this website](https://github.com/kbroman/simple_site),
-make modifications, and submit a pull request.
+### 4. HOW LONG DO WE KEEP YOUR INFORMATION?
 
----
+We only keep your information for as long as necessary to fulfill the purposes outlined in this privacy policy unless otherwise required by law.
 
-The source for this minimal tutorial is [on github](https://github.com/kbroman/simple_site).
+### 5. DO WE COLLECT INFORMATION FROM MINORS?
 
-Also see my [tutorials](https://kbroman.org/tutorials) on
-[git/github](https://kbroman.org/github_tutorial),
-[GNU make](https://kbroman.org/minimal_make),
-[knitr](https://kbroman.org/knitr_knutshell),
-[R packages](https://kbroman.org/pkg_primer),
-[data organization](https://kbroman.org/dataorg),
-and [reproducible research](https://kbroman.org/steps2rr).
+We do not knowingly solicit data from or market to children under 18 years of age.
+
+### 6. WHAT ARE YOUR PRIVACY RIGHTS?
+
+In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. 
+
+### 7. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected.
+
+### 8. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+If you are a resident of California, you are granted specific rights regarding access to your personal information.
+
+### 9. DO WE MAKE UPDATES TO THIS POLICY?
+
+Yes, we will update this policy as necessary to stay compliant with relevant laws.
+
+### 10. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
+
+If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO) at [maximizeabit@gmail.com](mailto:maximizeabit@gmail.com).
+
+### PLEASE NOTE
+
+Our Services are designed to avoid the processing of your sensitive data. However, as a user, you should avoid inputting sensitive data into the Services. All data you input are stored within your own Chrome browser and we do not have access to this data.
+
+By using our Services, you agree to the terms of this privacy policy.
+
+Please keep your own personal safety in mind when using our Services. 
