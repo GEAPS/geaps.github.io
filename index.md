@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Privacy Policy for Todo Stream
-tagline: Privacy Policy
+tagline: 
 description: Privacy policy for the plugin app for study stream.
 ---
-## Privacy Policy for the Todo List Chrome Extension
+
 
 **Last updated: (2023/7/25)**
 

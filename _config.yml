@@ -10,10 +10,10 @@ highlighter: rouge
 #
 title : Privacy Policy
 author :
-  name : Karl Broman
-  email : kbroman@gmail.com
-  github : kbroman
-  feedburner : nil
+  name : MarginX
+  email : maximizeabit@gmail.com
+  github : geaps
+  feedburner : geaps
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://kbroman.github.io/simple_site
